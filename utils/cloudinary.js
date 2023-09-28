@@ -1,0 +1,1 @@
+const Cloudinary = require('cloudinary');
